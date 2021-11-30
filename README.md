@@ -1,5 +1,5 @@
 ## Introduction
-SQLAlchemy implementation of a real estate company representation. Used Data Normalization for reducing redundancy and Indices to retrieve data more quickly.
+SQLAlchemy implementation of a real estate company representation for a school assignment. Used Data Normalization for reducing redundancy and Indices to retrieve data more quickly.
 
 - create.py creates the Tables
 - insert_data.py inserts the data into the Tables
