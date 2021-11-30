@@ -1,10 +1,11 @@
+## Introduction
 SQLAlchemy implementation of a real estate company representation. Used Data Normalization for reducing redundancy and Indices to retrieve data more quickly.
 
 - create.py creates the Tables
 - insert_data.py inserts the data into the Tables
 - query_data.py executes the required queries and creates the commission table. It prints out the required results.<br>
 
-Steps to run:<br>
+### Steps to run:<br>
 (Mac)
 - python3.6 -m venv venv
 - source venv/bin/activate
